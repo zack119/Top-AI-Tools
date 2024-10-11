@@ -5,6 +5,8 @@ Here is a list of good ai tools navigation sites.
 ## A
 
 - [aimojo.io](https://aimojo.io/) - Discover, Explore, and Compare The Largest Collection of AI Tools
+- [allinai.tools](https://allinai.tools/) - Discover and get the best AI tools and AI models. AI helps your life and work. It's so cool.
+- [AI Tools Explore](https://aiex.me/) - Curated tools and insights to elevate your AI-driven projects.
 
 ## M
 
